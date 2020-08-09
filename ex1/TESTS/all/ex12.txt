@@ -1,0 +1,34 @@
+first input for ex12 (run from "ex12-files" directory):
+(25 points)
+run from command line: ./ex12.sh dir1
+expected output:
+1 a.txt is a file
+2 b is a directory
+-----------------------------------------------------------
+second input for ex12 (run from "ex12-files" directory):
+(25 points)
+run from command line: ./ex12.sh dir2
+expected output:
+1 a.txt is a file
+2 b.txt is a file
+3 c is a directory
+4 d is a directory
+5 d1 is a directory
+-----------------------------------------------------------
+third input for ex12 (run from "ex12-files" directory):
+(25 points)
+run from command line: ./ex12.sh dir3
+expected output:
+1 donald.txt is a file
+2 duck.txt is a file
+3 mickey.txt is a file
+4 mouse.txt is a file
+-----------------------------------------------------------
+fourth input for ex12 (run from "ex12-files" directory):
+(25 points)
+run from command line: ./ex12.sh dir4
+expected output:
+1 dir is a directory
+2 dir1 is a directory
+3 dir2 is a directory
+-----------------------------------------------------------

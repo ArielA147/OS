@@ -1,0 +1,1 @@
+I'm at level 2 of dir1, then should be printed

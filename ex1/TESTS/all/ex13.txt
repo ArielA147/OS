@@ -1,0 +1,19 @@
+first input for ex13 (run from "ex13-files" directory):
+(33 points)
+run from command line: ./ex13.sh dir1 file1.txt
+expected output:
+I'm at level 2 of dir1, then should be printed
+-----------------------------------------------------------
+second input for ex13 (run from "ex13-files" directory):
+(34 points)
+run from command line: ./ex13.sh bDir hello-world-a.c
+expected output:
+I'm hello-world-a.c and I should be printed first
+I'm hello-world-a.c and I should be printed second
+-----------------------------------------------------------
+third input for ex13 (run from "ex13-files" directory):
+(33 points)
+run from command line: ./ex13.sh nDir hi.txt
+expected output:
+yes!
+-----------------------------------------------------------

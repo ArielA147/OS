@@ -1,0 +1,34 @@
+first input for ex14 (run from "ex14-files" directory):
+(25 points)
+run from command line: ./ex14.sh Haim Bank-log-ex14
+expected output:
+Haim 50005 Jerusalem 18/1/1998 15:18
+Haim 258852 Jerusalem 22/1/1998 16:11
+Haim 258852 Jerusalem 23/1/1998 16:12
+Total balance: 567709
+-----------------------------------------------------------
+second input for ex14 (run from "ex14-files" directory):
+(25 points)
+run from command line: ./ex14.sh Dudu Bank-log-ex14
+expected output:
+Dudu -50 Herzliya-Pituah 1/1/1998 11:22
+Dudu 180 Herziliya-Pituah 20/1/1998 13:21
+Dudu -2 Herziliya-Pituah 24/1/1998 13:21
+Total balance: 128
+-----------------------------------------------------------
+third input for ex14 (run from "ex14-files" directory):
+(25 points)
+run from command line: ./ex14.sh Boris Bank-log-ex14
+expected output:
+Boris -777 Technion 19/1/1998 17:11
+Boris -2222 Technion 21/1/1998 11:13
+Total balance: -2999
+-----------------------------------------------------------
+fourth input for ex14 (run from "ex14-files" directory):
+(25 points)
+run from command line: ./ex14.sh Dan Bank-log-ex14
+expected output:
+Dan 100 Ramat-Aviv 1/1/1998 10:34
+Dan 18 Ramat-Aviv 14/1/1998 10:34
+Total balance: 118
+-----------------------------------------------------------

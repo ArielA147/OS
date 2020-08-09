@@ -1,0 +1,5 @@
+for this ex' : 
+ex11 : 100					
+ex 12 : 80 (see 'Test ex12')
+ex13 : 100
+ex 14 : 100

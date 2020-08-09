@@ -1,0 +1,22 @@
+first input for ex11 (run from "ex11-files" directory):
+(34 points)
+run from command line: ./ex11.sh file1-grading.txt coffee
+expected output:
+1 4
+3 5
+5 5
+-----------------------------------------------------------
+second input for ex11 (run from "ex11-files" directory):
+(33 points)
+run from command line: ./ex11.sh file2-grading.txt Red
+expected output:
+4 1
+6 2
+7 5
+-----------------------------------------------------------
+third input for ex11 (run from "ex11-files" directory):
+(33 points)
+run from command line: ./ex11.sh file3-grading.c wil
+expected output:
+(no output)
+-----------------------------------------------------------

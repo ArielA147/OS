@@ -1,0 +1,7 @@
+END_INPUT 
+hello
+hello
+hello
+hello
+hello
+END_OUTPUT 100
